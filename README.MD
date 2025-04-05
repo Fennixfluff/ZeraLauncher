@@ -63,7 +63,7 @@ dependancies and setup a desktop shortcut.
 - run `./ZeraLauncher` OR use the shortcut.
 
 # Getting started
-The app by default will prevent you from running the same app twice at once, as ov v2 there is a bug that
+The app by default will prevent you from running the same app twice at once. As of v2 there is a bug that
 wont let you run it again even if the first is closed, unless you restart Zera
 - This canbe disabled via `./ZeraLauncher -startup-prefention --disabled`
 - Re-enable it via `./ZeraLauncher -startup-prefention --enabled`
